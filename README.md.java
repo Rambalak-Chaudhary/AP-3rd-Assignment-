@@ -1,8 +1,5 @@
-Java Code:
-
 public class CircleAreaCalculator {
 
-    // Method to calculate the area of a circle
     public static double getCircleArea(double radius) {
         return Math.PI * radius * radius;
     }
